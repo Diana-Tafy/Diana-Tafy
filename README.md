@@ -26,5 +26,5 @@ I am a Data Analyst focused on business intelligence, structured data analysis, 
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [Your Link Here]
+* **LinkedIn:** https://www.linkedin.com/in/tafadzwa-diana-mavunga-a86075406/
 * **Portfolio:** [Your Link Here]
