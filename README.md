@@ -17,10 +17,18 @@ I am a Data Analyst focused on business intelligence, structured data analysis, 
 
 #### 📊 Retail Sales Optimization
 * **Bright Coffee Shop:** Built a Power BI dashboard tracking store performance, product margins, and revenue trends.
+
 * **Bright Motors:** Analyzed historical sales data across vehicle models for executive portfolio presentations.
+  
+* **Tableau Retail Sales (CFI)**: Built an interactive Tableau dashboard analyzing retail sales metrics, product performance, and revenue trends to support strategic business decisions.
+
+* **BL FNB Sales Analysis**: Developed Jupyter Notebook workflows to analyze banking and sales data, extracting actionable insights on revenue performance and transaction patterns.
 
 #### 🎬 Audience Segmentation
 * **BrightTV Case Study:** Used advanced SQL queries and window functions to segment viewership data (e.g., "The Home Stayers") and analyze subscription revenue streams.
+
+  ###🏥 Healthcare Analytics & Predictive Modeling
+* **Netcare Patient Readmission ML**: Built and evaluated a machine learning model in Python (Jupyter Notebook) to predict patient readmission risks and identify key healthcare clinical indicators.
 
 ---
 
