@@ -27,7 +27,7 @@ I am a Data Analyst focused on business intelligence, structured data analysis, 
 #### 🎬 Audience Segmentation
 * **BrightTV Case Study:** Used advanced SQL queries and window functions to segment viewership data (e.g., "The Home Stayers") and analyze subscription revenue streams.
 
-  ###🏥 Healthcare Analytics & Predictive Modeling
+  ####🏥 Healthcare Analytics & Predictive Modeling
 * **Netcare Patient Readmission ML**: Built and evaluated a machine learning model in Python (Jupyter Notebook) to predict patient readmission risks and identify key healthcare clinical indicators.
 
 ---
